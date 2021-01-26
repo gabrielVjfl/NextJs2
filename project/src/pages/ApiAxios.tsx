@@ -5,7 +5,7 @@ import styled from 'styled-components'
 const ApiAxios = ({ dados }:any) => (
   <div>
 
-    <h1>Obtendo os valores da api com NEXT JS</h1>
+    <h1>Obtendo os valores da api com NEXT JS!!</h1>
 {
   dados.map((item:any) => 
     <div key={item._id}>
